@@ -1,2 +1,2 @@
 # college-activities
-Repository for graduation purposes
+This Repository is meant for graduation purposes.
